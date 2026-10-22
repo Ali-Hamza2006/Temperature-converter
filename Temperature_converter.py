@@ -12,3 +12,5 @@ fahrenheit = celsius * 9 / 5 + 32
 
 # Show the result
 print("Temperature in Fahrenheit is:", fahrenheit)
+kelvin = celsius+273
+print("Temperature in kelvin is :", kelvin)  # adding temperature in kelvin
