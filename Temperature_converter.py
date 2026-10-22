@@ -15,3 +15,5 @@ print("Temperature in Fahrenheit is:", fahrenheit)
 kelvin = celsius+273
 print("Temperature in kelvin is :", kelvin)  # adding temperature in kelvin
 print("Good Bye")
+
+print("Thanks for using it")
