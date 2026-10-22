@@ -1,0 +1,23 @@
+#This is the file which tells git to ignore it.
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# WPS / Office temp
+~$*.docx
